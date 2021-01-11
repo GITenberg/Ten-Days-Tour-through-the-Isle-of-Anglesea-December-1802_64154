@@ -1,0 +1,31 @@
+_repo: Ten-Days-Tour-through-the-Isle-of-Anglesea-December-1802_64154
+_version: 0.0.1
+alternative_title: 10 Days' Tour through the Isle of Anglesea, December, 1802
+creator:
+  author:
+    agent_name: Skinner, John
+    birthdate: 1772
+    deathdate: 1839
+    gutenberg_agent_id: '52772'
+    url: http://www.gutenberg.org/2009/agents/52772
+    wikipedia: https://en.wikipedia.org/wiki/John_Skinner_(archaeologist)
+description: ''
+gutenberg_issued: '2020-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64154'
+  lccn: '86194964'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Celts -- Wales -- Anglesey (Gwynedd)'
+- !lcsh 'Wales -- Antiquities, Celtic'
+- !lcc 'DA'
+- !lcsh 'Anglesey (Wales) -- Antiquities'
+- !lcsh 'Skinner, John, 1772-1839'
+- !lcsh 'Anglesey (Wales) -- Description and travel'
+- GITenberg
+title: Ten Days' Tour through the Isle of Anglesea, December, 1802
+url: http://www.gutenberg.org/ebooks/64154
